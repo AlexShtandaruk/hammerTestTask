@@ -1,0 +1,88 @@
+// MARK: - objectTableViewHeader
+
+"objectTableViewHeader.title" = "Описание";
+"objectTableViewHeader.backButton" = "Назад";
+"objectTableViewHeader.logOutButton" = "Выйти";
+
+// MARK: - movieListTableViewCell
+
+"movieListTableViewCell.year" = "год";
+"movieListTableViewCell.hours" = "ч.";
+"movieListTableViewCell.minutes" = "м.";
+"movieListTableViewCell.duration" = "Длительность:";
+
+// MARK: - movieDetailView
+
+"movieDetailView.actorTakePart" = "Актеры:";
+"movieDetailView.directorTakePart" = "Режисер:";
+"movieDetailView.descriptionAboutMovie" = "Описание:";
+"movieDetailView.year" = "год";
+
+// MARK: - movieDetailView
+
+"genre.animation" = "Анимация";
+"genre.adventure" = "Приключения";
+"genre.drama" = "Драмма";
+"genre.all" = "Все";
+
+// MARK: - categoryTableViewHeader
+
+"categoryTableViewHeader.title" = "Список фильмов";
+
+// MARK: - watchTableViewCell
+
+"watchTableViewCell.watch" = "Смотреть";
+
+// MARK: - movieRecTableViewCell
+
+"movieRecTableViewCell.title" = "Фильмы в похожем жанре:";
+
+
+
+// MARK: - SERVICE'S
+
+// MARK: - networkService
+
+"networkService.guardData" = "Твоя дата = nil.";
+"networkService.catchData" = "В catch поймали ошибку.";
+"networkService.response" = "Ошибка с запросом на сервер.";
+"networkService.information" = "Получение какой-либо информации с сервера.";
+"networkService.clientError" = "Клиентская ошибка.";
+"networkService.recursive" = "Рекурсивная ошибка.";
+"networkService.authError" = "Ошибка авторизации.";
+"networkService.serverError" = "Проблемы с сервером.";
+
+// MARK: - alertService
+
+"alertService.failure" = "Ошибка - ";
+"alertService.statusCode" = "Статус код: -";
+"alertService.cancel" = "Закрыть";
+"alertService.title" = "Внимание";
+"alertService.tryToWatch" = "К сожалению у вас нет доступа к просмотру.";
+
+
+// MARK: - AUTH FLOW
+
+// MARK: - logInViewController
+
+"logInViewController.logintf" = "Введите ваш логин";
+"logInViewController.passwordtf" = "Введите ваш пароль";
+"logInViewController.logInbt" = "Зайти";
+"logInViewController.signInbt" = "Регистрация";
+"logInViewController.resetPasswordbt" = "Восстановление пароля";
+
+// MARK: - logInPresenter
+
+"logInPresenter.emptyLogin" = "Пустое поле логина";
+"logInPresenter.emptyPassword" = "Пустое поле пароля";
+"logInPresenter.incorrectLogin" = "Такой пользователь не зарегестрирован";
+"logInPresenter.incorrectPassword" = "Неверный пароль";
+
+// new
+
+// MARK: - tabBarController
+
+"tabBarController.menu" = "Меню";
+"tabBarController.contact" = "Контакты";
+"tabBarController.profile" = "Профиль";
+"tabBarController.cart" = "Корзина";

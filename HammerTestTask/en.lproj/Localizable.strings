@@ -1,0 +1,99 @@
+// MARK: - MOVIE FLOW
+
+
+// MARK: - movieListTableViewCell
+
+"movieListTableViewCell.year" = "year";
+"movieListTableViewCell.hours" = "h.";
+"movieListTableViewCell.minutes" = "m.";
+"movieListTableViewCell.duration" = "Duration:";
+
+// MARK: - categoryTableViewHeader
+
+"categoryTableViewHeader.title" = "Movie list";
+
+// MARK: - movieDetailView
+
+"movieDetailView.actorTakePart" = "Actors:";
+"movieDetailView.directorTakePart" = "Director:";
+"movieDetailView.descriptionAboutMovie" = "Description:";
+"movieDetailView.year" = "year";
+
+// MARK: - movieDetailView
+
+"genre.animation" = "Animation";
+"genre.adventure" = "Adventure";
+"genre.drama" = "Drama";
+"genre.all" = "All";
+
+// MARK: - objectTableViewHeader
+
+"objectTableViewHeader.title" = "Description";
+"objectTableViewHeader.backButton" = "Back";
+"objectTableViewHeader.logOutButton" = "Log out";
+
+// MARK: - watchTableViewCell
+
+"watchTableViewCell.watch" = "Watch";
+
+// MARK: - movieRecTableViewCell
+
+"movieRecTableViewCell.title" = "Movies with same genre:";
+
+
+
+
+// MARK: - SERVICE'S
+
+
+// MARK: - networkService
+
+"networkService.guardData" = "You've got data = nil.";
+"networkService.catchData" = "Just catch error.";
+"networkService.response" = "Failure with response to server.";
+"networkService.information" = "Information from server.";
+"networkService.clientError" = "You've got some client error.";
+"networkService.recursive" = "Recursive error.";
+"networkService.authError" = "Error of authorization.";
+"networkService.serverError" = "Server error.";
+
+// MARK: - alertService
+
+"alertService.failure" = "Failure - ";
+"alertService.statusCode" = "StatusCode: -";
+"alertService.cancel" = "Cancel";
+"alertService.title" = "Alert";
+"alertService.tryToWatch" = "Sorry, but you can't watch that movie.";
+
+
+
+
+// MARK: - AUTH FLOW
+
+
+// MARK: - logInViewController
+
+"logInViewController.logintf" = "Enter your login";
+"logInViewController.passwordtf" = "Enter your login";
+"logInViewController.logInbt" = "Log in";
+"logInViewController.signInbt" = "Sign in";
+"logInViewController.resetPasswordbt" = "I forgot password";
+
+// MARK: - logInPresenter
+
+"logInPresenter.emptyLogin" = "Empty login field";
+"logInPresenter.emptyPassword" = "Empty password field";
+"logInPresenter.incorrectLogin" = "That login are not exist";
+"logInPresenter.incorrectPassword" = "Incorrect password";
+
+
+
+// new
+
+// MARK: - tabBarController
+
+"tabBarController.menu" = "Menu";
+"tabBarController.contact" = "Contact";
+"tabBarController.profile" = "Profile";
+"tabBarController.cart" = "Cart";
+

@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "animationfortestproject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AlexShtandaruk/animationForTestProject",
+      "state" : {
+        "branch" : "main",
+        "revision" : "92957a1702d750b750420eda885cdeae9fe7fea8"
+      }
+    }
+  ],
+  "version" : 2
+}
